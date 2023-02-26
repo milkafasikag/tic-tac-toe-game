@@ -1,0 +1,53 @@
+
+	h1 {
+		color: rgb(255, 0, 149);
+		font-size: 45px;
+	}
+    #bo1, #bo2, #bo3, #bo4, #bo5,
+	#bo6, #bo7, #bo8, #bo9 {
+		width: 100px;
+		height: 50px;
+		margin: auto;
+		border: 1px solid #1a1010;
+		border-radius: 10px;
+		font-size: 35px;
+		text-align: center;
+        background-color: rgb(244, 231, 231);
+		color: black;
+	}
+
+   #button {
+		box-sizing: border-box;
+		padding: 20px 40px;
+		border: 1px solid rgb(60, 40, 46);
+		margin: auto;
+		font-family:arial;
+        background-color: rgba(234, 21, 39, 0.951);
+		color: white;
+		font-size: 25px;
+		cursor: pointer;
+		border-radius: 30px;
+	}
+
+
+	#print {
+		font-family:arial;
+       color: rgba(230, 237, 238, 0.794);
+		font-size: 30px;
+	}
+
+     #main {
+		text-align: center;
+		background-color: rgb(68, 62, 62);
+	}
+   body{
+	background-color: black;
+}
+	
+	#instruction {
+		font-family:arial;
+	   color: rgb(150, 255, 30);
+		font-size: 20px;
+	}
+	span{
+		color: rgb(234, 195, 53);}
